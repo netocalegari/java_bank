@@ -1,7 +1,7 @@
 # java_bank
 ----EN----
 
-A first simple Java project, consisting of a "bank". You are prompted to create a bank account, informing the account ID and owner. 
+My first simple Java project, consisting of a "bank". You are prompted to create a bank account, informing the account ID and owner. 
 If there is an initial deposit you would like to make, you may inform it's value when prompted.
 
 This little project was done to study and learn a few basic concepts of the java language, such as getters and setters, contructors,
